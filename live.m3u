@@ -1,1271 +1,318 @@
 #EXTM3U
-#EXTINF:-1,UK | Sky Sports 1 HD  IPTVultra.com [1920x1088]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/229.ts
-#EXTINF:-1,UK | Sky Sports 5  IPTVultra.com [704x592]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2302.ts
-#EXTINF:-1,UK | Sky Movies Disney  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/301.ts
-#EXTINF:-1,UK | Sky Premiere Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/300.ts
-#EXTINF:-1,UK | Sky Sports 5  IPTVultra.com [704x592]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/302.ts
-#EXTINF:-1,UK | BBC 4 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/278.ts
-#EXTINF:-1,UK | Sky Movies Christmas  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2294.ts
-#EXTINF:-1,UK | Sky Select Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/308.ts
-#EXTINF:-1,UK | BT Sport 1HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/251.ts
-#EXTINF:-1,UK | True Movies 2  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/311.ts
-#EXTINF:-1,UK | Sky Thriller Movies  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/307.ts
-#EXTINF:-1,UK | CBS Action  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/340.ts
-#EXTINF:-1,UK | Sky Comedy Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/305.ts
-#EXTINF:-1,UK | Sky Sp News HQ Backup  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2297.ts
-#EXTINF:-1,UK | BBC One London  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2211.ts
-#EXTINF:-1,UK | eir Sports 1  IPTVultra.com [1920x1088]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2249.ts
-#EXTINF:-1,myHD | MBC 2 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/226.ts
-#EXTINF:-1,UK | Sky Family Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/303.ts
-#EXTINF:-1,UK | BBC 2 HD  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/276.ts
-#EXTINF:-1,UK | Sky Sports 2  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2299.ts
-#EXTINF:-1,UK | Sky Action Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/306.ts
-#EXTINF:-1,UK | BBC World News  IPTVultra.com [640x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2022.ts
-#EXTINF:-1,UK | BT Sport 2HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/250.ts
-#EXTINF:-1,UK | BT Sports Extra 1  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/243.ts
-#EXTINF:-1,myHD | MBC 3 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/225.ts
-#EXTINF:-1,UK | BBC Two Scotland  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2216.ts
-#EXTINF:-1,UK | Sky Sports 1  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2298.ts
-#EXTINF:-1,myHD | MBC 4 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/224.ts
-#EXTINF:-1,UK | Sky Sports 4  IPTVultra.com [720x592]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2301.ts
-#EXTINF:-1,UK | ABC News  IPTVultra.com [640x368]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2205.ts
-#EXTINF:-1,UK | Sky Sports Mix  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2303.ts
-#EXTINF:-1,UK | True Movies 1  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/310.ts
-#EXTINF:-1,UK | BBC News HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2210.ts
-#EXTINF:-1,UK | BBC Four UK  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2209.ts
-#EXTINF:-1,UK | ITV 1  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/280.ts
-#EXTINF:-1,UK | BBC 1 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/275.ts
-#EXTINF:-1,UK | ITV Encore  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/285.ts
-#EXTINF:-1,UK | BBC Alba  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2208.ts
-#EXTINF:-1,UK | CBBC HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2232.ts
-#EXTINF:-1,UK | BT Sport 3HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/249.ts
-#EXTINF:-1,UK | Chelsea TV HD  IPTVultra.com [848x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/240.ts
-#EXTINF:-1,UK | ITV Choice  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2259.ts
-#EXTINF:-1,myHD | MBC 1 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/227.ts
-#EXTINF:-1,UK | Sky Sports 3  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2300.ts
-#EXTINF:-1,UK | MUTV HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/242.ts
-#EXTINF:-1,UK | Sky Sp News HQ  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/223.ts
-#EXTINF:-1,UK | Sky Sports 2 HD  IPTVultra.com [1920x1088]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/228.ts
-#EXTINF:-1,UK | BBC One Wales  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2214.ts
-#EXTINF:-1,UK | LIVERPOOL TV  IPTVultra.com [848x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/241.ts
-#EXTINF:-1,UK | BBC Two UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2217.ts
-#EXTINF:-1,UK | Sky ScFiHorror Movies  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/309.ts
-#EXTINF:-1,UK | ITV HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2260.ts
-#EXTINF:-1,UK | BT Sport ESPN HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/247.ts
-#EXTINF:-1,UK | Channel 4 UK  IPTVultra.com [768x432]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/291.ts
-#EXTINF:-1,UK | BBC One Northern Ireland  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2212.ts
-#EXTINF:-1,UK | BBC News UK  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/296.ts
-#EXTINF:-1,UK | E! Entertainment  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/323.ts
-#EXTINF:-1,UK | Comedy Extra  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2242.ts
-#EXTINF:-1,UK | ITV HD Backup  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2261.ts
-#EXTINF:-1,UK | True Entertainment  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/312.ts
-#EXTINF:-1,UK | Comedy Xtra  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/333.ts
-#EXTINF:-1,UK | ITV 4  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/283.ts
-#EXTINF:-1,UK | ITV  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2257.ts
-#EXTINF:-1,UK | CBS Reality 1 UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/338.ts
-#EXTINF:-1,UK | ITV 2  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/281.ts
-#EXTINF:-1,UK | BBC Parliament  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2215.ts
-#EXTINF:-1,UK | Channel 5 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2238.ts
-#EXTINF:-1,UK | CBS Reality UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2234.ts
-#EXTINF:-1,UK | ITV Choice  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/259.ts
-#EXTINF:-1,UK | SKY News HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2296.ts
-#EXTINF:-1,UK | TG4  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/288.ts
-#EXTINF:-1,UK | Sky Arts  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/319.ts
-#EXTINF:-1,UK | CBS Drama  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/339.ts
-#EXTINF:-1,UK | Channel 5 UK  IPTVultra.com [768x432]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/290.ts
-#EXTINF:-1,UK | CBBC  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2231.ts
-#EXTINF:-1,UK | Quest  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2279.ts
-#EXTINF:-1,UK | Channel 4 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/292.ts
-#EXTINF:-1,UK | Sky News Arabia  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2295.ts
-#EXTINF:-1,UK | Sky 1  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/315.ts
-#EXTINF:-1,UK | Discovery Science  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/262.ts
-#EXTINF:-1,UK | BBC One Scotland  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2213.ts
-#EXTINF:-1,UK | MTV Classic  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/266.ts
-#EXTINF:-1,UK | Nat Geo Wild HD UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2270.ts
-#EXTINF:-1,UK | Sky 1 HD  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2292.ts
-#EXTINF:-1,UK | MTV Base UK  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2264.ts
-#EXTINF:-1,UK | Pick  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/330.ts
-#EXTINF:-1,UK | Sky Living 1 UK  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/317.ts
-#EXTINF:-1,UK | MTV Music UK  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/269.ts
-#EXTINF:-1,UK | QVC Style  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2282.ts
-#EXTINF:-1,UK | National Geographic HD UK  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2271.ts
-#EXTINF:-1,UK | RTE News  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2285.ts
-#EXTINF:-1,UK | Comedy Central HD  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2241.ts
-#EXTINF:-1,UK | MTV Hits!  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2267.ts
-#EXTINF:-1,UK | CNBC Europe  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2240.ts
-#EXTINF:-1,UK | Travel Channel UK  IPTVultra.com [1296x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2321.ts
-#EXTINF:-1,UK | National Geographic UK  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/258.ts
-#EXTINF:-1,UK | MTV Base UK  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/264.ts
-#EXTINF:-1,UK | Sky Arts HD  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2293.ts
-#EXTINF:-1,UK | Al Jazeera News HD  IPTVultra.com [1920x1088]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2206.ts
-#EXTINF:-1,UK | SyFy HD  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/320.ts
-#EXTINF:-1,UK | Travel Channel 1 UK  IPTVultra.com [1296x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/254.ts
-#EXTINF:-1,UK | ITV HD Backup  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/261.ts
-#EXTINF:-1,UK | British Eurosport  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2016.ts
-#EXTINF:-1,UK | Fine Living Network  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/332.ts
-#EXTINF:-1,UK | mov4men1  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/337.ts
-#EXTINF:-1,UK | ITV 1 Backup  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2258.ts
-#EXTINF:-1,UK | Nick UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2275.ts
-#EXTINF:-1,UK | Crime Investigation  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/255.ts
-#EXTINF:-1,UK | MTV Rocks UK  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2269.ts
-#EXTINF:-1,UK | ITV Be  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/284.ts
-#EXTINF:-1,UK | Comedy Central  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/334.ts
-#EXTINF:-1,UK | RTE One  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2284.ts
-#EXTINF:-1,UK | Discovery  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/263.ts
-#EXTINF:-1,UK | Nick Junior  IPTVultra.com [480x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2274.ts
-#EXTINF:-1,UK | ITV HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/260.ts
-#EXTINF:-1,UK | Eden  1  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/329.ts
-#EXTINF:-1,UK | Sky Sp News HQ Backup  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/297.ts
-#EXTINF:-1,UK | QVC Style  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/282.ts
-#EXTINF:-1,UK | QVC U.K.  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2283.ts
-#EXTINF:-1,UK | Alibi  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/324.ts
-#EXTINF:-1,UK | Food Network UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/336.ts
-#EXTINF:-1,UK | NHK News HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2272.ts
-#EXTINF:-1,UK | Sky Sports 2  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/299.ts
-#EXTINF:-1,UK | Nick Jr Too  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2273.ts
-#EXTINF:-1,UK | Discovery Shed UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2243.ts
-#EXTINF:-1,UK | ITV  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/257.ts
-#EXTINF:-1,UK | QVC Beauty  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2280.ts
-#EXTINF:-1,UK | Sky 2  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/316.ts
-#EXTINF:-1,UK | Quest  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/279.ts
-#EXTINF:-1,UK | Travel Channel UK  IPTVultra.com [1296x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/321.ts
-#EXTINF:-1,UK | Channel 5 HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/238.ts
-#EXTINF:-1,UK | GOLD HD  IPTVultra.com [688x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/328.ts
-#EXTINF:-1,UK | MTV Christmas  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2265.ts
-#EXTINF:-1,UK | 5 USA  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2204.ts
-#EXTINF:-1,UK | CGTN Documentary  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2236.ts
-#EXTINF:-1,UK | DMAX  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/253.ts
-#EXTINF:-1,UK | Magic  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2262.ts
-#EXTINF:-1,UK | Russia Today HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2287.ts
-#EXTINF:-1,UK | London Live UK  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/344.ts
-#EXTINF:-1,UK | Home  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2255.ts
-#EXTINF:-1,UK | Real Lives  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/335.ts
-#EXTINF:-1,UK | Sky News Arabia  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/295.ts
-#EXTINF:-1,UK | VH1 Classic  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2322.ts
-#EXTINF:-1,UK | Boomerang  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2018.ts
-#EXTINF:-1,UK | H2 UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/343.ts
-#EXTINF:-1,UK | Euronews  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2251.ts
-#EXTINF:-1,UK | DisneyJunior  IPTVultra.com [688x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2246.ts
-#EXTINF:-1,UK | Home  1  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/327.ts
-#EXTINF:-1,UK | FOX HD  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2252.ts
-#EXTINF:-1,UK | Sky Movies Christmas  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/294.ts
-#EXTINF:-1,UK | Spike UK  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2311.ts
-#EXTINF:-1,UK | SONY MAX 2  IPTVultra.com [704x400]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2304.ts
-#EXTINF:-1,UK | mov4men  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2263.ts
-#EXTINF:-1,UK | ZEE CLASSICS  IPTVultra.com [640x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2326.ts
-#EXTINF:-1,UK | Sky Sports 1  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/298.ts
-#EXTINF:-1,UK | Motors UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/237.ts
-#EXTINF:-1,UK | Disney XD  IPTVultra.com [688x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2244.ts
-#EXTINF:-1,UK | ZEE CLASSICS  IPTVultra.com [640x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/326.ts
-#EXTINF:-1,UK | Horror Channel UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/341.ts
-#EXTINF:-1,UK | DisneyChnl  IPTVultra.com [688x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2245.ts
-#EXTINF:-1,UK | CITV  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2239.ts
-#EXTINF:-1,UK | Challenge  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/331.ts
-#EXTINF:-1,UK | Cartoonito  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2230.ts
-#EXTINF:-1,UK | S4C  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2288.ts
-#EXTINF:-1,UK | Baby TV  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2207.ts
-#EXTINF:-1,UK | SETMAX  IPTVultra.com [640x368]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2290.ts
-#EXTINF:-1,UK | France 24 English  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2253.ts
-#EXTINF:-1,UK | British Eurosport2  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2015.ts
-#EXTINF:-1,UK | SONY SAB  IPTVultra.com [640x368]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2306.ts
-#EXTINF:-1,UK | Sony Movies  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2305.ts
-#EXTINF:-1,UK | ZEE CINEMA  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2324.ts
-#EXTINF:-1,UK | Bloomberg  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2020.ts
-#EXTINF:-1,UK | RTEjr  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2286.ts
-#EXTINF:-1,UK | Heart TV UK  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2254.ts
-#EXTINF:-1,UK | History UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/342.ts
-#EXTINF:-1,UK | CGTN News  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2235.ts
-#EXTINF:-1,UK | 3e  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/289.ts
-#EXTINF:-1,UK | Eden  IPTVultra.com [704x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2248.ts
-#EXTINF:-1,UK | 4Music  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2203.ts
-#EXTINF:-1,UK | Cartoon Network UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2229.ts
-#EXTINF:-1,UK | STAR PLUS IND  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2318.ts
-#EXTINF:-1,UK | CGTN News  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/235.ts
-#EXTINF:-1,UK | Sky Arts HD  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/293.ts
-#EXTINF:-1,UK | Sky Movies Drama & Romance  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2894.ts
-#EXTINF:-1,UK | SONY SAB ASIAu  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2307.ts
-#EXTINF:-1,UK | ZEE TV HD USA  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2328.ts
-#EXTINF:-1,UK | Watch  IPTVultra.com [688x480]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/325.ts
-#EXTINF:-1,UK | ID UK  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/256.ts
-#EXTINF:-1,UK | CITV  IPTVultra.com [896x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/239.ts
-#EXTINF:-1,UK | ZEE TV UK  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2329.ts
-#EXTINF:-1,UK | Nick Jr Too  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/273.ts
-#EXTINF:-1,UK | SETMAX UK  IPTVultra.com [768x432]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2291.ts
-#EXTINF:-1,UK | TLC  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2895.ts
-#EXTINF:-1,UK | STAR GOLD HD  IPTVultra.com [480x512]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2316.ts
-#EXTINF:-1,UK | SONY SAB UK  IPTVultra.com [768x432]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2308.ts
-#EXTINF:-1,UK | VH1 Classic  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/322.ts
-#EXTINF:-1,UK | Russia Today HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/287.ts
-#EXTINF:-1,UK | NHK News HD  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/272.ts
-#EXTINF:-1,UK | SONY TV ASIA  IPTVultra.com [1280x720]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2310.ts
-#EXTINF:-1,UK | CGTN Documentary  IPTVultra.com [720x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/236.ts
-#EXTINF:-1,UK | SONY TV  IPTVultra.com [704x400]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2309.ts
-#EXTINF:-1,UK | CBeebies  IPTVultra.com [960x544]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2233.ts
-#EXTINF:-1, Bike  IPTVultra.com [720x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3833.ts
-#EXTINF:-1,UK | RTEjr  IPTVultra.com [1024x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/286.ts
-#EXTINF:-1,UK | NickToons  IPTVultra.com [544x576]
-http://176.31.226.232:8000/live/N-PRO-230/hnfvgh/2276.ts
-#EXTINF:-1, Alibi  IPTVultra.com [720x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3846.ts
-#EXTINF:-1, Boomerang  IPTVultra.com [544x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3831.ts
-#EXTINF:-1, Crime & Investigation  IPTVultra.com [1024x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3811.ts
-#EXTINF:-1, More 4  IPTVultra.com [704x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3758.ts
-#EXTINF:-1, Cartoonito  IPTVultra.com [720x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3825.ts
-#EXTINF:-1, MTV Dance  IPTVultra.com [704x576]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3754.ts
-#EXTINF:-1, Eir Sport 1  IPTVultra.com [1920x1088]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3790.ts
-#EXTINF:-1, UTV HD  IPTVultra.com [1280x720]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3692.ts
-#EXTINF:-1, MTV Rocks  IPTVultra.com [1280x720]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3751.ts
-#EXTINF:-1, SKY Sports News  IPTVultra.com [1280x720]
-http://104.245.96.214:8000/live/Clemente/clemente/166.ts
-#EXTINF:-1, E4  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/1660.ts
-#EXTINF:-1, MIO ELEVEN HD  IPTVultra.com [1920x1088]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3767.ts
-#EXTINF:-1, Sky Sports Action  IPTVultra.com [1280x720]
-http://147.135.221.188:8000/live/wOqMX7DJFE/1WLOI5d9Vm/3713.ts
-#EXTINF:-1, ITV 3  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/778.ts
-#EXTINF:-1, Al Aoula inter  IPTVultra.com [640x368]
-http://212.47.250.72:25461/live/1234/1234/791.ts
-#EXTINF:-1, Ennaher TV  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/774.ts
-#EXTINF:-1, RTE 1  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/773.ts
-#EXTINF:-1,  Syfy UK  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/798.ts
-#EXTINF:-1,  STARCINEMA2  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/782.ts
-#EXTINF:-1, London Live  IPTVultra.com [960x544]
-http://212.47.250.72:25461/live/1234/1234/5785.ts
-#EXTINF:-1, ZaytounaTV  IPTVultra.com [512x352]
-http://212.47.250.72:25461/live/1234/1234/795.ts
-#EXTINF:-1, RTE NEWS  IPTVultra.com [1024x576]
-http://212.47.250.72:25461/live/1234/1234/5489.ts
-#EXTINF:-1, Assadissa  IPTVultra.com [640x480]
-http://212.47.250.72:25461/live/1234/1234/787.ts
-#EXTINF:-1, MEDI1  IPTVultra.com [720x416]
-http://212.47.250.72:25461/live/1234/1234/790.ts
-#EXTINF:-1, Arriadhia  IPTVultra.com [640x368]
-http://212.47.250.72:25461/live/1234/1234/786.ts
-#EXTINF:-1, Baby tv  IPTVultra.com [704x576]
-http://212.47.250.72:25461/live/1234/1234/5005.ts
-#EXTINF:-1, MTA3  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/5594.ts
-#EXTINF:-1, Sky Movies Select HD  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/439.ts
-#EXTINF:-1, Sky 3D  IPTVultra.com [1920x800]
-http://212.47.250.72:25461/live/1234/1234/5848.ts
-#EXTINF:-1, Sky Atlantic  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/5852.ts
-#EXTINF:-1, raimovie  IPTVultra.com [720x416]
-http://212.47.250.72:25461/live/1234/1234/783.ts
-#EXTINF:-1, OTV  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/663.ts
-#EXTINF:-1, E4  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/660.ts
-#EXTINF:-1, islamchannel  IPTVultra.com [864x480]
-http://212.47.250.72:25461/live/1234/1234/5847.ts
-#EXTINF:-1,  ALBAITBAITAK CINEMA  IPTVultra.com [480x576]
-http://212.47.250.72:25461/live/1234/1234/781.ts
-#EXTINF:-1, MTA2  IPTVultra.com [1920x1088]
-http://212.47.250.72:25461/live/1234/1234/5593.ts
-#EXTINF:-1, London Live  IPTVultra.com [960x544]
-http://212.47.250.72:25461/live/1234/1234/785.ts
-#EXTINF:-1, SKY1  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/4749.ts
-#EXTINF:-1, Peace TV  IPTVultra.com [320x240]
-http://212.47.250.72:25461/live/1234/1234/5637.ts
-#EXTINF:-1, Boxnation HD  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/1347.ts
-#EXTINF:-1,  Sky Sports F1 UK  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/776.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [688x480]
-http://212.47.250.72:25461/live/1234/1234/793.ts
-#EXTINF:-1, 2M Marroc  IPTVultra.com [688x384]
-http://212.47.250.72:25461/live/1234/1234/789.ts
-#EXTINF:-1, Sky Disney channel  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/436.ts
-#EXTINF:-1, MTA1  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/5592.ts
-#EXTINF:-1, BT Sport 2 HD  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/656.ts
-#EXTINF:-1, NatGeo Wild HD  IPTVultra.com [544x576]
-http://212.47.250.72:25461/live/1234/1234/4745.ts
-#EXTINF:-1, FOOD NETWORK  IPTVultra.com [544x576]
-http://212.47.250.72:25461/live/1234/1234/434.ts
-#EXTINF:-1, Sky News  IPTVultra.com [1920x1088]
-http://212.47.250.72:25461/live/1234/1234/606.ts
-#EXTINF:-1, SONY CHANNEL  IPTVultra.com [704x576]
-http://212.47.250.72:25461/live/1234/1234/4757.ts
-#EXTINF:-1, NAT GEO HD  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/4756.ts
-#EXTINF:-1, TRUE MOVIES  IPTVultra.com [544x576]
-http://212.47.250.72:25461/live/1234/1234/4759.ts
-#EXTINF:-1, MUTV  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/5853.ts
-#EXTINF:-1, DAVE HD  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/4754.ts
-#EXTINF:-1, cbeebies  IPTVultra.com [1920x1088]
-http://212.47.250.72:25461/live/1234/1234/4744.ts
-#EXTINF:-1,[UK] France 24  IPTVultra.com [1280x720]
-http://176.31.235.163:8000/live/cyxeHi50Pp/VdsM9miiIA/814.ts
-#EXTINF:-1, Sky Select 3 HD  IPTVultra.com [1280x720]
-http://212.47.250.72:25461/live/1234/1234/655.ts
-#EXTINF:-1, Sky Cinema Box Office 3  IPTVultra.com [1920x1040]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9277.ts
-#EXTINF:-1, Premier League  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9266.ts
-#EXTINF:-1, 5USA  IPTVultra.com [720x576]
-http://212.47.250.72:25461/live/1234/1234/5827.ts
-#EXTINF:-1, SKY Sports News  IPTVultra.com [1280x720]
-http://104.245.96.214:8000/live/negro/negro/166.ts
-#EXTINF:-1,  ITV Encore  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8083.ts
-#EXTINF:-1, Sky Sports The Open  IPTVultra.com [720x592]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9268.ts
-#EXTINF:-1, CNN HD  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8042.ts
-#EXTINF:-1, Sky Sports Football  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9270.ts
-#EXTINF:-1, SKy Sports Cricket  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9271.ts
-#EXTINF:-1, Box Nation  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8030.ts
-#EXTINF:-1, CHELSEA TV  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/5655.ts
-#EXTINF:-1,  Sky Cinema Box Office 4  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9274.ts
-#EXTINF:-1, MTV Rocks HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8081.ts
-#EXTINF:-1,  MTV Music UK  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8080.ts
-#EXTINF:-1,  MTV Hits HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8078.ts
-#EXTINF:-1,  Real Lives  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8076.ts
-#EXTINF:-1,  SKY Movies Disney HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8068.ts
-#EXTINF:-1, eir Sports 2 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8073.ts
-#EXTINF:-1,  eir Sports 1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8072.ts
-#EXTINF:-1, Heart TV HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8074.ts
-#EXTINF:-1,UK|: Comedy Extra  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8043.ts
-#EXTINF:-1,  CBeebies  IPTVultra.com [960x544]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8070.ts
-#EXTINF:-1, LFC TV HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8067.ts
-#EXTINF:-1, DisneyJunior  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8064.ts
-#EXTINF:-1,  Lifetime HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8075.ts
-#EXTINF:-1, Liverpool FC  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8049.ts
-#EXTINF:-1, Sky Sports MIX  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8025.ts
-#EXTINF:-1,  Sky Sp News HQ  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8060.ts
-#EXTINF:-1,  Discovery Shed UK  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8047.ts
-#EXTINF:-1,  Nick JR Peppa  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8048.ts
-#EXTINF:-1,  ID  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8066.ts
-#EXTINF:-1,  Universal Channel UK  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8057.ts
-#EXTINF:-1, 4 music  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8051.ts
-#EXTINF:-1, Sky 1  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8062.ts
-#EXTINF:-1, Nick Junior  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2241.ts
-#EXTINF:-1, Dave HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3088.ts
-#EXTINF:-1,VIP| OSN: SeeVii Beelink HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/818.ts
-#EXTINF:-1,  ITV Be  IPTVultra.com [896x512]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8082.ts
-#EXTINF:-1,  MTV Dance HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8077.ts
-#EXTINF:-1, Sky Sports Main Event  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9269.ts
-#EXTINF:-1, Sky Sports News  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9273.ts
-#EXTINF:-1,  Spike UK  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8059.ts
-#EXTINF:-1, Nick Jr Too  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2242.ts
-#EXTINF:-1,  ABC NEWS  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8069.ts
-#EXTINF:-1, Sky Cinema Box Office 2  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9276.ts
-#EXTINF:-1, Boomerang  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8029.ts
-#EXTINF:-1,  CITV  IPTVultra.com [896x512]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8041.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/5656.ts
-#EXTINF:-1, True Movies 2  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1447.ts
-#EXTINF:-1, True Movies 1  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1446.ts
-#EXTINF:-1,  MTV Live HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8079.ts
-#EXTINF:-1, E! Entertainment  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1943.ts
-#EXTINF:-1,  E! Entertainment  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8063.ts
-#EXTINF:-1, Sky Cinema Box Office 4  IPTVultra.com [1280x544]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/9278.ts
-#EXTINF:-1,Channel 5  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3085.ts
-#EXTINF:-1,Channel 4 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3084.ts
-#EXTINF:-1,  H2  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8055.ts
-#EXTINF:-1, Sky Sport 5 HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2968.ts
-#EXTINF:-1, Sky Sport 1 HD  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2964.ts
-#EXTINF:-1,  SKY BT Sports 2 HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1487.ts
-#EXTINF:-1, Sky Sport 4 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2967.ts
-#EXTINF:-1, SKY BT Sports 1 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1488.ts
-#EXTINF:-1, Sky Sport 3 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2966.ts
-#EXTINF:-1, BT Sports Extra 2 HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2826.ts
-#EXTINF:-1, RACING HD  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2162.ts
-#EXTINF:-1, ESPN HD  IPTVultra.com [912x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1871.ts
-#EXTINF:-1, BTSport Europe HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2737.ts
-#EXTINF:-1, BTSportExtra1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2745.ts
-#EXTINF:-1, Sky Setanta Sports  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2160.ts
-#EXTINF:-1, Eurosport2.HD  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3318.ts
-#EXTINF:-1, Premier Sports  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2828.ts
-#EXTINF:-1, Sky Sport F1 HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2969.ts
-#EXTINF:-1, YESTERDAY  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2152.ts
-#EXTINF:-1, |  TV3  IPTVultra.com [880x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2154.ts
-#EXTINF:-1, VH1  IPTVultra.com [688x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2153.ts
-#EXTINF:-1, CBS REALITY  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3082.ts
-#EXTINF:-1, Mototrs TV  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2155.ts
-#EXTINF:-1, AMC  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4985.ts
-#EXTINF:-1, CBS DRAMA  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3081.ts
-#EXTINF:-1, Home  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3090.ts
-#EXTINF:-1, mov4men1  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3096.ts
-#EXTINF:-1, TLC  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2156.ts
-#EXTINF:-1, Quest  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3089.ts
-#EXTINF:-1, Eurosport 1 HD  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1872.ts
-#EXTINF:-1, Gold  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3091.ts
-#EXTINF:-1, Drama  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3092.ts
-#EXTINF:-1, At The Races  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3097.ts
-#EXTINF:-1, FOOD NETWORK  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2385.ts
-#EXTINF:-1, 5 Usa  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3086.ts
-#EXTINF:-1, Sky Syfy  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2159.ts
-#EXTINF:-1, Sky Movies Scifi / Horror  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1442.ts
-#EXTINF:-1, Alibi  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3094.ts
-#EXTINF:-1, Sky Movies Modern Greats  IPTVultra.com [688x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1440.ts
-#EXTINF:-1, Sky Movies Drama HD  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/830.ts
-#EXTINF:-1, Sky Atlantic  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1435.ts
-#EXTINF:-1, TG4  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2739.ts
-#EXTINF:-1, Sony TV  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2747.ts
-#EXTINF:-1,  Sky Movies Showcase  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2752.ts
-#EXTINF:-1, Sky Movies Select  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2753.ts
-#EXTINF:-1, SkyScFi/Horror  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2754.ts
-#EXTINF:-1, Sky Movies Premiere  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2755.ts
-#EXTINF:-1, Sky Movies Family  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1439.ts
-#EXTINF:-1, BTSport//ESPN  IPTVultra.com [912x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2746.ts
-#EXTINF:-1, Nat Geografic  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1940.ts
-#EXTINF:-1, Sky Arts 1  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1434.ts
-#EXTINF:-1, National Geographic  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1448.ts
-#EXTINF:-1, ITV2  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2166.ts
-#EXTINF:-1, ITV4  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2164.ts
-#EXTINF:-1, MORE4  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2161.ts
-#EXTINF:-1, ITV3  IPTVultra.com [880x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2165.ts
-#EXTINF:-1, Nat Geo Wild  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1941.ts
-#EXTINF:-1, FOX SPORTS  IPTVultra.com [960x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2169.ts
-#EXTINF:-1,  Dave  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8045.ts
-#EXTINF:-1,  Crime Investigation  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8044.ts
-#EXTINF:-1, MTV Classic  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2955.ts
-#EXTINF:-1, MTV  1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2957.ts
-#EXTINF:-1, FILM 4  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2170.ts
-#EXTINF:-1,  DISNEY XD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2173.ts
-#EXTINF:-1, SKY LIVING  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2958.ts
-#EXTINF:-1, BT Sport Extra 4  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8026.ts
-#EXTINF:-1, MUTV  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/5654.ts
-#EXTINF:-1,BTSportMosaic  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2744.ts
-#EXTINF:-1, E4  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2172.ts
-#EXTINF:-1, Discovery Turbo  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1936.ts
-#EXTINF:-1, Animal Planet  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1942.ts
-#EXTINF:-1, Discovery History  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1939.ts
-#EXTINF:-1, ITV  IPTVultra.com [896x512]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2167.ts
-#EXTINF:-1,Geo Kahani HD  IPTVultra.com [720x416]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/825.ts
-#EXTINF:-1,TCM 1  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2158.ts
-#EXTINF:-1,URDU 1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/822.ts
-#EXTINF:-1, BT Sport Extra 3  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/8027.ts
-#EXTINF:-1,Sky Sports F1  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/819.ts
-#EXTINF:-1, Discovery Investigation  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1938.ts
-#EXTINF:-1,Hum TV HD  IPTVultra.com [704x400]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/823.ts
-#EXTINF:-1, MED NUCE  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/831.ts
-#EXTINF:-1,Film 4 HD  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3095.ts
-#EXTINF:-1,VIP| OSN: SeeVii Shamiya HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/820.ts
-#EXTINF:-1,Watch  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3087.ts
-#EXTINF:-1,BABY TV  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4986.ts
-#EXTINF:-1, Discovery Science  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1937.ts
-#EXTINF:-1,ITVBE  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2163.ts
-#EXTINF:-1,3E  IPTVultra.com [1024x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3083.ts
-#EXTINF:-1, RTEjr  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2740.ts
-#EXTINF:-1, BT Sports Extra 2 HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/826.ts
-#EXTINF:-1,Food  IPTVultra.com [640x480]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3093.ts
-#EXTINF:-1,Hum Sitaray HD  IPTVultra.com [688x368]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/824.ts
-#EXTINF:-1,RTE2  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2741.ts
-#EXTINF:-1, Sport digital HD  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/821.ts
-#EXTINF:-1,Sky News  IPTVultra.com [544x592]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4219.ts
-#EXTINF:-1,Sky Thriller  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2750.ts
-#EXTINF:-1,Film 4 UK  IPTVultra.com [704x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/834.ts
-#EXTINF:-1,Sky Sport 2 HD  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2965.ts
-#EXTINF:-1,MTV Base  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2956.ts
-#EXTINF:-1,F1  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2171.ts
-#EXTINF:-1,Discovery Channel  IPTVultra.com [768x432]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1935.ts
-#EXTINF:-1,RTE1  IPTVultra.com [544x576]
-http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/2742.ts
-#EXTINF:-1,UKR: TRK Ukrania HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4942.ts
-#EXTINF:-1,UKR: Sport 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4936.ts
-#EXTINF:-1,UKR: Futbol 2HD  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/4933.ts
-#EXTINF:-1,UKR: Futbol 2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4935.ts
-#EXTINF:-1,UKR: Futbol 1HD  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/4932.ts
-#EXTINF:-1,UKR: Futbol 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4934.ts
-#EXTINF:-1, BBC EARTH HD  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/7082.ts
-#EXTINF:-1, HBO 2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1033.ts
-#EXTINF:-1, HBO 1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/1034.ts
-#EXTINF:-1, True Movies 2  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1036.ts
-#EXTINF:-1, Travel Channel  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1037.ts
-#EXTINF:-1, Syfy + 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4452.ts
-#EXTINF:-1, Sony Chnl   1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4442.ts
-#EXTINF:-1, SKY SPORTS PREMIER LEAGUE  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/2459.ts
-#EXTINF:-1, SKY SPORTS MAIN EVENT  IPTVultra.com [720x416]
-http://217.23.1.3:6969/live/mate/mate/2463.ts
-#EXTINF:-1, Sky Living +1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4446.ts
-#EXTINF:-1, Sky Cinema Premiere  1  IPTVultra.com [1920x1072]
-http://217.23.1.3:6969/live/mate/mate/4471.ts
-#EXTINF:-1, Sky Atlantic  1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4447.ts
-#EXTINF:-1, Setanta Sports 1  IPTVultra.com [720x416]
-http://217.23.1.3:6969/live/mate/mate/1026.ts
-#EXTINF:-1, SATENTA SPORT  IPTVultra.com [720x416]
-http://217.23.1.3:6969/live/mate/mate/1027.ts
-#EXTINF:-1, RTE Two  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1425.ts
-#EXTINF:-1, PREMIERE SPORT HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1028.ts
-#EXTINF:-1, Nick Jr +1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4463.ts
-#EXTINF:-1, Nickelodeon  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/383.ts
-#EXTINF:-1, MTV  +1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4470.ts
-#EXTINF:-1, LFC TV  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/2895.ts
-#EXTINF:-1, ID + 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4449.ts
-#EXTINF:-1, Horror Channel  +1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4444.ts
-#EXTINF:-1, History +1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4459.ts
-#EXTINF:-1, Good Food  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/1038.ts
-#EXTINF:-1, Food Network  1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4443.ts
-#EXTINF:-1, Food Network  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1039.ts
-#EXTINF:-1, Eurosport 2  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4473.ts
-#EXTINF:-1, Eurosport 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4472.ts
-#EXTINF:-1, Eir Sports2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4684.ts
-#EXTINF:-1, Eir Sports1  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/4683.ts
-#EXTINF:-1, E!  + 1  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/4448.ts
-#EXTINF:-1, Discovery Science  1  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/4467.ts
-#EXTINF:-1, E!  IPTVultra.com [688x480]
-http://217.23.1.3:6969/live/mate/mate/1040.ts
-#EXTINF:-1, Discovery History +1  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/4468.ts
-#EXTINF:-1, Crime investigation  1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4455.ts
-#EXTINF:-1, Comedy Central Extra  +1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4456.ts
-#EXTINF:-1, Chelsea FC  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1030.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1041.ts
-#EXTINF:-1, BT Sports 2 SD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/2464.ts
-#EXTINF:-1, BT Sport Mosaic  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4475.ts
-#EXTINF:-1, Universal + 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4453.ts
-#EXTINF:-1, BT Sport Extra 5  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4480.ts
-#EXTINF:-1, BT Sport Extra 3  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/4478.ts
-#EXTINF:-1, BT Sport 3 SD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4954.ts
-#EXTINF:-1, BT Sport Extra 1  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4476.ts
-#EXTINF:-1, BBC4 HD  IPTVultra.com [960x544]
-http://217.23.1.3:6969/live/mate/mate/385.ts
-#EXTINF:-1, BT Sport Extra 2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/4477.ts
-#EXTINF:-1, Animal Planet  +1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/4457.ts
-#EXTINF:-1, ID  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1429.ts
-#EXTINF:-1, Crime & Investigiation  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/5497.ts
-#EXTINF:-1, Sky Sports Mix  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5496.ts
-#EXTINF:-1, Premier Sports HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1427.ts
-#EXTINF:-1, BET  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5771.ts
-#EXTINF:-1, Investigation Discovery  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5780.ts
-#EXTINF:-1, BBC Parliament  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5809.ts
-#EXTINF:-1, BBC ALBA  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5806.ts
-#EXTINF:-1, CHANNEL 5  IPTVultra.com [768x432]
-http://217.23.1.3:6969/live/mate/mate/5813.ts
-#EXTINF:-1, CHANNEL 5 FHD  IPTVultra.com [768x432]
-http://217.23.1.3:6969/live/mate/mate/5812.ts
-#EXTINF:-1, Movies 4 Men  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/5779.ts
-#EXTINF:-1, KISS UK  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/5785.ts
-#EXTINF:-1, BT Sport 3 HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5547.ts
-#EXTINF:-1, QUEST  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/5778.ts
-#EXTINF:-1, Sony Channel  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5774.ts
-#EXTINF:-1, Golf Channel  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7063.ts
-#EXTINF:-1, CNBC Europe  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/5769.ts
-#EXTINF:-1, Real Lives  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/5776.ts
-#EXTINF:-1, Channel 4  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/5811.ts
-#EXTINF:-1, VICELAND  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/5807.ts
-#EXTINF:-1, Sony Movie  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/5775.ts
-#EXTINF:-1, Channel 4 HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/5810.ts
-#EXTINF:-1, Sky Cinema Comedy HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7297.ts
-#EXTINF:-1, Sky Cinema Disney HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7298.ts
-#EXTINF:-1, Sky Cinema Crime & Thriller HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7293.ts
-#EXTINF:-1, Sky Cinema Action HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7300.ts
-#EXTINF:-1, Sky Cinema Drama & Romance HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7294.ts
-#EXTINF:-1, Sky Cinema Family HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7299.ts
-#EXTINF:-1, Cartoonito  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7144.ts
-#EXTINF:-1, Sky Cinema Premier HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7301.ts
-#EXTINF:-1, Sky Cinema Sci Fi & Horror HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7296.ts
-#EXTINF:-1, Sky Cinema Select HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7292.ts
-#EXTINF:-1, History  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/7437.ts
-#EXTINF:-1, MTV  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/7438.ts
-#EXTINF:-1, Scuzz  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/7435.ts
-#EXTINF:-1, TCM  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/7440.ts
-#EXTINF:-1, National Geographic  IPTVultra.com [1088x720]
-http://217.23.1.3:6969/live/mate/mate/7441.ts
-#EXTINF:-1, H2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7442.ts
-#EXTINF:-1, NATGEO WILD  IPTVultra.com [1088x720]
-http://217.23.1.3:6969/live/mate/mate/7463.ts
-#EXTINF:-1, VIVA  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7472.ts
-#EXTINF:-1, Clubland  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/7597.ts
-#EXTINF:-1, Heart TV  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7598.ts
-#EXTINF:-1, Celtic FC TV (Live for Matches )  IPTVultra.com [1056x608]
-http://217.23.1.3:6969/live/mate/mate/7682.ts
-#EXTINF:-1, EUROSPORT 2 HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7688.ts
-#EXTINF:-1, EUROSPORT 1 HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7689.ts
-#EXTINF:-1, Capital TV  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7781.ts
-#EXTINF:-1, CNN FHD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7794.ts
-#EXTINF:-1, ITV 2 FHD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7791.ts
-#EXTINF:-1, ITV 3 FHD 1080  IPTVultra.com [896x512]
-http://217.23.1.3:6969/live/mate/mate/7792.ts
-#EXTINF:-1, ITV 4 FHD 1080  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7793.ts
-#EXTINF:-1, BBC 3 FHD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/7994.ts
-#EXTINF:-1, LFC TV HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7996.ts
-#EXTINF:-1, MUTV FHD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7995.ts
-#EXTINF:-1, Citv  IPTVultra.com [896x512]
-http://217.23.1.3:6969/live/mate/mate/7676.ts
-#EXTINF:-1, STV FHD  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/8033.ts
-#EXTINF:-1, TG4  IPTVultra.com [1024x576]
-http://217.23.1.3:6969/live/mate/mate/8412.ts
-#EXTINF:-1, BT FHD 1  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8620.ts
-#EXTINF:-1, BT FHD 2  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8619.ts
-#EXTINF:-1, SKY SPORTS FHD 1  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8615.ts
-#EXTINF:-1, SKY SPORTS FHD CRICKET  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8614.ts
-#EXTINF:-1, SKY SPORTS FHD ACTION  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8613.ts
-#EXTINF:-1, SKY SPORTS FHD GOLF  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8617.ts
-#EXTINF:-1, SKY SPORTS FHD PREMIER LEAGUE  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8616.ts
-#EXTINF:-1, SKY SPORTS FHD MAIN EVENT  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8612.ts
-#EXTINF:-1, RTE News Now  IPTVultra.com [1024x576]
-http://217.23.1.3:6969/live/mate/mate/8631.ts
-#EXTINF:-1, ITV2 +1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/8685.ts
-#EXTINF:-1, ITV4 +1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/8687.ts
-#EXTINF:-1, RTE JUNIOR  IPTVultra.com [1024x576]
-http://217.23.1.3:6969/live/mate/mate/8682.ts
-#EXTINF:-1, TV3  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/8683.ts
-#EXTINF:-1, Euronews  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/8695.ts
-#EXTINF:-1, BBC ONE SD  IPTVultra.com [768x432]
-http://217.23.1.3:6969/live/mate/mate/8868.ts
-#EXTINF:-1, BT Sport 1 backup  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/8950.ts
-#EXTINF:-1, BOX OFFICE HD 2  IPTVultra.com [1280x544]
-http://217.23.1.3:6969/live/mate/mate/9130.ts
-#EXTINF:-1, BOX OFFICE HD 3  IPTVultra.com [1920x1040]
-http://217.23.1.3:6969/live/mate/mate/9129.ts
-#EXTINF:-1, BOX OFFICE HD 4  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/9128.ts
-#EXTINF:-1, MUTV Backup  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/7686.ts
-#EXTINF:-1, Peace TV  IPTVultra.com [640x368]
-http://217.23.1.3:6969/live/mate/mate/9149.ts
-#EXTINF:-1, Amc  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/9160.ts
-#EXTINF:-1, Islam Channel  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/9148.ts
-#EXTINF:-1, Sky Sport Football HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/10164.ts
-#EXTINF:-1, BT FHD 3  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/8618.ts
-#EXTINF:-1, Channel AKA  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/10185.ts
-#EXTINF:-1, Sky Sport Arena HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/10165.ts
-#EXTINF:-1, 4Music  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/11777.ts
-#EXTINF:-1, Cartoon Network HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/11775.ts
-#EXTINF:-1, MTV Base HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/11771.ts
-#EXTINF:-1, Sky Sports News FHD  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/11774.ts
-#EXTINF:-1, Box hits  IPTVultra.com [1088x720]
-http://217.23.1.3:6969/live/mate/mate/11779.ts
-#EXTINF:-1, Sky Sports The Open  IPTVultra.com [720x592]
-http://217.23.1.3:6969/live/mate/mate/11781.ts
-#EXTINF:-1, Sky Sports The Open HD  IPTVultra.com [720x592]
-http://217.23.1.3:6969/live/mate/mate/11782.ts
-#EXTINF:-1, Sky Sport 1 SD  IPTVultra.com [720x416]
-http://217.23.1.3:6969/live/mate/mate/1922.ts
-#EXTINF:-1, MTV 90's  IPTVultra.com [960x544]
-http://217.23.1.3:6969/live/mate/mate/11121.ts
-#EXTINF:-1, Mototrs TV  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/1029.ts
-#EXTINF:-1, CNN  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/3134.ts
-#EXTINF:-1,UK | UTV  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/1416.ts
-#EXTINF:-1, STAR WORLD HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/422.ts
-#EXTINF:-1,UK | Tiny POP  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/4460.ts
-#EXTINF:-1,UK | Nicktoons  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1433.ts
-#EXTINF:-1,UK | Nick Jr  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1434.ts
-#EXTINF:-1,UK | London Live  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1417.ts
-#EXTINF:-1,UK | ITV be  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1627.ts
-#EXTINF:-1,UK | E4  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/1420.ts
-#EXTINF:-1,UK | gold  IPTVultra.com [688x480]
-http://217.23.1.3:6969/live/mate/mate/1432.ts
-#EXTINF:-1,UK | Film 4  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1419.ts
-#EXTINF:-1,UK | Good Food  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1414.ts
-#EXTINF:-1, ALB ANIME  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/427.ts
-#EXTINF:-1,UK | Irish Tv  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1418.ts
-#EXTINF:-1, OSN Movies Premiere 2  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/380.ts
-#EXTINF:-1,UK | E!  IPTVultra.com [688x480]
-http://217.23.1.3:6969/live/mate/mate/1430.ts
-#EXTINF:-1,UK | CBS Drama  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1422.ts
-#EXTINF:-1, ALB UK  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/429.ts
-#EXTINF:-1,UK | CBS Action  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/1423.ts
-#EXTINF:-1,UK | CBS reality  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/1421.ts
-#EXTINF:-1, MTV Lebanon  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/758.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1088]
-http://217.23.1.3:6969/live/mate/mate/430.ts
-#EXTINF:-1, DISCOVERY KIDS SD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/390.ts
-#EXTINF:-1, Sky Cinema Hits  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/8867.ts
-#EXTINF:-1, DISNEY XD  IPTVultra.com [720x480]
-http://217.23.1.3:6969/live/mate/mate/387.ts
-#EXTINF:-1,UK | boomerang  IPTVultra.com [544x576]
-http://217.23.1.3:6969/live/mate/mate/1424.ts
-#EXTINF:-1, DISCOVERY SCIENCE SD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/389.ts
-#EXTINF:-1,SLO: VOYO  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/852.ts
-#EXTINF:-1, Sky Shkence  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/440.ts
-#EXTINF:-1, KLAN Kosova HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/420.ts
-#EXTINF:-1, BOX OFFICE HD 1  IPTVultra.com [1920x1072]
-http://217.23.1.3:6969/live/mate/mate/9131.ts
-#EXTINF:-1, ITV  1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/8684.ts
-#EXTINF:-1, Film Autor HD  IPTVultra.com [704x576]
-http://217.23.1.3:6969/live/mate/mate/65.ts
-#EXTINF:-1, CI HD  IPTVultra.com [768x432]
-http://217.23.1.3:6969/live/mate/mate/432.ts
-#EXTINF:-1, Vizion Plus Toksor  IPTVultra.com [960x576]
-http://217.23.1.3:6969/live/mate/mate/24.ts
-#EXTINF:-1, OSN Discovery Science  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/382.ts
-#EXTINF:-1, Food Network  1  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/443.ts
-#EXTINF:-1, Fox Sports HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/381.ts
-#EXTINF:-1,SLO: SPORTKLUB GOLF  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/68.ts
-#EXTINF:-1, OSN Alkass Sport 5  IPTVultra.com [640x368]
-http://217.23.1.3:6969/live/mate/mate/391.ts
-#EXTINF:-1,SLO: NATIONAL GEOGRAPHIC  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/22.ts
-#EXTINF:-1,CAN(l) TSN2  IPTVultra.com [704x480]
-http://217.23.1.3:6969/live/mate/mate/5784.ts
-#EXTINF:-1,XXX: PINK EROTIC 6  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/64.ts
-#EXTINF:-1, FOX SPORTS 1 HD  IPTVultra.com [1280x720]
-http://217.23.1.3:6969/live/mate/mate/379.ts
-#EXTINF:-1,VIP AR: OSN Travel Channel HD  IPTVultra.com [1440x1088]
-http://217.23.1.3:6969/live/mate/mate/66.ts
-#EXTINF:-1,CAN(l) TSN3  IPTVultra.com [704x480]
-http://217.23.1.3:6969/live/mate/mate/5783.ts
-#EXTINF:-1,XXX: Pink Erotic 2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/61.ts
-#EXTINF:-1,XXX: Primafila Hot Club 7  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/9.ts
-#EXTINF:-1, PLUS HD(Digitalb)  IPTVultra.com [960x576]
-http://217.23.1.3:6969/live/mate/mate/431.ts
-#EXTINF:-1,XXX: Pink Erotic 4  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/63.ts
-#EXTINF:-1, ITV  1  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/4.ts
-#EXTINF:-1, Tring Sport 3 HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/67.ts
-#EXTINF:-1, OSN ITV Choice  IPTVultra.com [0x0]
-http://217.23.1.3:6969/live/mate/mate/433.ts
-#EXTINF:-1, OSN Fine Living HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/436.ts
-#EXTINF:-1,CAN(l) YTV E  IPTVultra.com [704x480]
-http://217.23.1.3:6969/live/mate/mate/5786.ts
-#EXTINF:-1,XXX: Pink Erotic 4  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/3.ts
-#EXTINF:-1,XXX: Primafila Hot Club 7  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/49.ts
-#EXTINF:-1,CAN(l) TSN4  IPTVultra.com [704x480]
-http://217.23.1.3:6969/live/mate/mate/5782.ts
-#EXTINF:-1,XXX: CentoXCento  IPTVultra.com [528x576]
-http://217.23.1.3:6969/live/mate/mate/47.ts
-#EXTINF:-1,XXX: Primafila Hot Club 8  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/8.ts
-#EXTINF:-1,VIP: MY HD Fox Family Movies HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/174.ts
-#EXTINF:-1,CAN: NBCSP  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/894.ts
-#EXTINF:-1,XXX: Primafila Hot Club 8  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/48.ts
-#EXTINF:-1,VIP: MY HD Fox Family Movies HD  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/74.ts
-#EXTINF:-1,XXX: Pink Erotic 3  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/62.ts
-#EXTINF:-1, Juventus TV  IPTVultra.com [1280x736]
-http://217.23.1.3:6969/live/mate/mate/761.ts
-#EXTINF:-1, BOX OFFICE HD 3  IPTVultra.com [1920x1040]
-http://217.23.1.3:6969/live/mate/mate/129.ts
-#EXTINF:-1,XXX: Primafila Hot Club 2  IPTVultra.com [720x576]
-http://217.23.1.3:6969/live/mate/mate/54.ts
-#EXTINF:-1, Channel V HD  IPTVultra.com [864x480]
-http://217.23.1.3:6969/live/mate/mate/853.ts
-#EXTINF:-1,XXX: Sirina  IPTVultra.com [720x400]
-http://217.23.1.3:6969/live/mate/mate/6.ts
+#EXTINF:-1,CITV
+http://5.255.90.226:5000/play/a00d
+#EXTINF:-1,BBC One S West
+http://5.255.90.226:5000/play/a010
+#EXTINF:-1,BBC One East E
+http://5.255.90.226:5000/play/a00l
+#EXTINF:-1,CBeebies HD
+http://5.255.90.226:5000/play/a01g
+#EXTINF:-1,ITV
+http://5.255.90.226:5000/play/a00b
+#EXTINF:-1,BBC One Wal HD
+http://5.255.90.226:5000/play/a01d
+#EXTINF:-1,CBeebies
+http://5.255.90.226:5000/play/a005
+#EXTINF:-1,BBC One Scot
+http://5.255.90.226:5000/play/a00r
+#EXTINF:-1,BBC One E Mid
+http://5.255.90.226:5000/play/a00k
+#EXTINF:-1,BBC NEWS
+http://5.255.90.226:5000/play/a012
+#EXTINF:-1,BBC One CI
+http://5.255.90.226:5000/play/a008
+#EXTINF:-1,ITVBe
+http://5.255.90.226:5000/play/a00g
+#EXTINF:-1,CBBC
+http://5.255.90.226:5000/play/a014
+#EXTINF:-1,BBC One N West
+http://5.255.90.226:5000/play/a00v
+#EXTINF:-1,BBC One Lon
+http://5.255.90.226:5000/play/a002
+#EXTINF:-1,BBC One Yk&Li
+http://5.255.90.226:5000/play/a00j
+#EXTINF:-1,BBC RB1
+http://5.255.90.226:5000/play/a01i
+#EXTINF:-1,BBC Four
+http://5.255.90.226:5000/play/a004
+#EXTINF:-1,BBC RB1
+http://5.255.90.226:5000/play/a00a
+#EXTINF:-1,BBC One Yorks
+http://5.255.90.226:5000/play/a00w
+#EXTINF:-1,ITV4
+http://5.255.90.226:5000/play/a00e
+#EXTINF:-1,BBC Two HD
+http://5.255.90.226:5000/play/a018
+#EXTINF:-1,BBC One NI HD
+http://5.255.90.226:5000/play/a01a
+#EXTINF:-1,BBC NEWS HD
+http://5.255.90.226:5000/play/a01e
+#EXTINF:-1,BBC One S East
+http://5.255.90.226:5000/play/a00x
+#EXTINF:-1,BBC One Wales
+http://5.255.90.226:5000/play/a00n
+#EXTINF:-1,BBC Parliament
+http://5.255.90.226:5000/play/a00m
+#EXTINF:-1,BBC One ScotHD
+http://5.255.90.226:5000/play/a01c
+#EXTINF:-1,BBC ALBA
+http://5.255.90.226:5000/play/a00t
+#EXTINF:-1,ITV2
+http://5.255.90.226:5000/play/a00c
+#EXTINF:-1,BBC One East W
+http://5.255.90.226:5000/play/a007
+#EXTINF:-1,ITV4+1
+http://5.255.90.226:5000/play/a00f
+#EXTINF:-1,BBC One HD
+http://5.255.90.226:5000/play/a019
+#EXTINF:-1,ETV2
+http://5.255.90.226:5000/play/a00q
+#EXTINF:-1,BBC Four HD
+http://5.255.90.226:5000/play/a01f
+#EXTINF:-1,ETV5
+http://5.255.90.226:5000/play/a00p
+#EXTINF:-1,ETV1
+http://5.255.90.226:5000/play/a001
+#EXTINF:-1,BBC Two NI
+http://5.255.90.226:5000/play/a016
+#EXTINF:-1,BBC Two Eng
+http://5.255.90.226:5000/play/a003
+#EXTINF:-1,BBC One W Mid
+http://5.255.90.226:5000/play/a00i
+#EXTINF:-1,CBBC HD
+http://5.255.90.226:5000/play/a017
+#EXTINF:-1,BBC One NE&C
+http://5.255.90.226:5000/play/a00y
+#EXTINF:-1,BBC One NI
+http://5.255.90.226:5000/play/a015
+#EXTINF:-1,BBC Two Scot
+http://5.255.90.226:5000/play/a00s
+#EXTINF:-1,BBC One South
+http://5.255.90.226:5000/play/a00z
+#EXTINF:-1,BBC One Oxford
+http://5.255.90.226:5000/play/a011
+#EXTINF:-1,BBC One West
+http://5.255.90.226:5000/play/a006
+#EXTINF:-1,ETV6
+http://5.255.90.226:5000/play/a013
+#EXTINF:-1,BBC Two Wales
+http://5.255.90.226:5000/play/a00o
+#EXTINF:-1,ITV +1
+http://5.255.90.226:5000/play/a00h
+#EXTM3U
+#EXTINF:-1,ITV Encore
+http://5.255.90.226:5001/play/a00s
+#EXTINF:-1,ITV Encore+1
+http://5.255.90.226:5001/play/a00o
+#EXTINF:-1,STV East +1
+http://5.255.90.226:5001/play/a00h
+#EXTINF:-1,5 USA
+http://5.255.90.226:5001/play/a01d
+#EXTINF:-1,ITV Tyne Tees
+http://5.255.90.226:5001/play/a00r
+#EXTINF:-1,ITV London +1
+http://5.255.90.226:5001/play/a00x
+#EXTINF:-1,Channel 5+1
+http://5.255.90.226:5001/play/a01i
+#EXTINF:-1,5STAR +1
+http://5.255.90.226:5001/play/a01h
+#EXTINF:-1,ITV Border
+http://5.255.90.226:5001/play/a00p
+#EXTINF:-1,ITV3+1
+http://5.255.90.226:5001/play/a00n
+#EXTINF:-1,ITV Yorkshire West
+http://5.255.90.226:5001/play/a00y
+#EXTINF:-1,Cartoon Netwrk
+http://5.255.90.226:5001/play/a016
+#EXTINF:-1,ITVBe+1
+http://5.255.90.226:5001/play/a00t
+#EXTINF:-1,ITV Central West HD
+http://5.255.90.226:5001/play/a012
+#EXTINF:-1,ITV Meridian South East HD
+http://5.255.90.226:5001/play/a011
+#EXTINF:-1,Spike
+http://5.255.90.226:5001/play/a01j
+#EXTINF:-1,ITV4 HD
+http://5.255.90.226:5001/play/a015
+#EXTINF:-1,ITV Meridian South
+http://5.255.90.226:5001/play/a00u
+#EXTINF:-1,ITV Westcountry South West +1
+http://5.255.90.226:5001/play/a00q
+#EXTINF:-1,ITV Meridian South East
+http://5.255.90.226:5001/play/a00w
+#EXTINF:-1,Boomerang +1
+http://5.255.90.226:5001/play/a018
+#EXTINF:-1,Boomerang
+http://5.255.90.226:5001/play/a017
+#EXTINF:-1,My5
+http://5.255.90.226:5001/play/a01g
+#EXTINF:-1,ITV3
+http://5.255.90.226:5001/play/a00m
+#EXTINF:-1,Channel 5HD
+http://5.255.90.226:5001/play/a01k
+#EXTINF:-1,CNN HD
+http://5.255.90.226:5001/play/a01b
+#EXTINF:-1,ITV3 HD
+http://5.255.90.226:5001/play/a014
+#EXTINF:-1,ITV 1 Westcountry South West
+http://5.255.90.226:5001/play/a00k
+#EXTINF:-1,5STAR
+http://5.255.90.226:5001/play/a01f
+#EXTINF:-1,CN+1
+http://5.255.90.226:5001/play/a019
+#EXTINF:-1,5 USA +1
+http://5.255.90.226:5001/play/a01e
+#EXTINF:-1,STV West
+http://5.255.90.226:5001/play/a00f
+#EXTINF:-1,ITV Yorkshire West HD
+http://5.255.90.226:5001/play/a013
+#EXTINF:-1,Channel 5
+http://5.255.90.226:5001/play/a01c
+#EXTINF:-1,STV East
+http://5.255.90.226:5001/play/a00g
+#EXTINF:-1,CNN
+http://5.255.90.226:5001/play/a01a
+#EXTINF:-1,STV North
+http://5.255.90.226:5001/play/a00e
+#EXTINF:-1,ITV Central West +1
+http://5.255.90.226:5001/play/a00v
+#EXTINF:-1,talkSPORT
+http://5.255.90.226:5001/play/a00j
+#EXTINF:-1,ITV London HD
+http://5.255.90.226:5001/play/a010
+#EXTINF:-1,ITV2+1
+http://5.255.90.226:5001/play/a00z
+#EXTINF:-1,ITV Channel
+http://5.255.90.226:5001/play/a00d
+#EXTINF:-1,UTV
+http://5.255.90.226:5001/play/a00i
+#EXTM3U
+#EXTINF:-1,CBS Reality
+http://5.255.90.226:5002/play/a02e
+#EXTINF:-1,Disney XD
+http://5.255.90.226:5002/play/a01y
+#EXTINF:-1,Sky2 (a)
+http://5.255.90.226:5002/play/a01x
+#EXTINF:-1,AMC from BT
+http://5.255.90.226:5002/play/a02a
+#EXTINF:-1,Sky Atlantic
+http://5.255.90.226:5002/play/a01l
+#EXTINF:-1,propeller
+http://5.255.90.226:5002/play/a02m
+#EXTINF:-1,Disney Junior
+http://5.255.90.226:5002/play/a020
+#EXTINF:-1,Sky Sports 3 (c)
+http://5.255.90.226:5002/play/a01t
+#EXTINF:-1,CBS Drama
+http://5.255.90.226:5002/play/a026
+#EXTINF:-1,BT Sport 3
+http://5.255.90.226:5002/play/a02l
+#EXTINF:-1,Sky Living+1
+http://5.255.90.226:5002/play/a01m
+#EXTINF:-1,BT Sport 1
+http://5.255.90.226:5002/play/a02k
+#EXTINF:-1,ComedyXtra
+http://5.255.90.226:5002/play/a01j
+#EXTINF:-1,CBS Reality+1
+http://5.255.90.226:5002/play/a02g
+#EXTINF:-1,TCM
+http://5.255.90.226:5002/play/a01o
+#EXTINF:-1,Sky Sp NewsHQ
+http://5.255.90.226:5002/play/a01b
+#EXTINF:-1,SkyRyderCup
+http://5.255.90.226:5002/play/a01k
+#EXTINF:-1,Eurosport 2
+http://5.255.90.226:5002/play/a01g
+#EXTINF:-1,Psychic Today
+http://5.255.90.226:5002/play/a02j
+#EXTINF:-1,Disney XD+1
+http://5.255.90.226:5002/play/a021
+#EXTINF:-1,Pick
+http://5.255.90.226:5002/play/a01u
+#EXTINF:-1,horror channel
+http://5.255.90.226:5002/play/a027
+#EXTINF:-1,Disney Junior+
+http://5.255.90.226:5002/play/a023
+#EXTINF:-1,Lucky Star
+http://5.255.90.226:5002/play/a028
+#EXTINF:-1,XXX Mums
+http://5.255.90.226:5002/play/a01w
+#EXTINF:-1,SkyRyderCup (a)
+http://5.255.90.226:5002/play/a01i
+#EXTINF:-1,Sky Sports 1 (b)
+http://5.255.90.226:5002/play/a01f
+#EXTINF:-1,SkySpBoxOff
+http://5.255.90.226:5002/play/a01a
+#EXTINF:-1,High Street TV 2
+http://5.255.90.226:5002/play/a02d
+#EXTINF:-1,Sky Box Office
+http://5.255.90.226:5002/play/a017
+#EXTINF:-1,Sky Atlantic+1
+http://5.255.90.226:5002/play/a01s
+#EXTINF:-1,CBS Action
+http://5.255.90.226:5002/play/a02b
+#EXTINF:-1,Sky Sports 1 (c)
+http://5.255.90.226:5002/play/a018
+#EXTINF:-1,SkyRyderCup (b)
+http://5.255.90.226:5002/play/a01v
+#EXTINF:-1,BT Sport Mosaic
+http://5.255.90.226:5002/play/a02i
+#EXTINF:-1,BT Sport 3 (a)
+http://5.255.90.226:5002/play/a02c
+#EXTINF:-1,FOX+
+http://5.255.90.226:5002/play/a01h
+#EXTINF:-1,BT Sport Extra 1
+http://5.255.90.226:5002/play/a02f
+#EXTINF:-1,Eurosport 1
+http://5.255.90.226:5002/play/a01n
+#EXTINF:-1,horror ch+1
+http://5.255.90.226:5002/play/a02h
+#EXTINF:-1,Sky Sports 5 (c)
+http://5.255.90.226:5002/play/a01q
+#EXTINF:-1,Disney Channel+1
+http://5.255.90.226:5002/play/a022
+#EXTINF:-1,Disney Channel
+http://5.255.90.226:5002/play/a01z
+#EXTINF:-1,BT Sport 1 (a)
+http://5.255.90.226:5002/play/a029
+#EXTINF:-1,Sky Sports 5 (b)
+http://5.255.90.226:5002/play/a01r
+#EXTM3U
+#EXTINF:-1,Sky Hits
+http://5.255.90.226:5003/play/a00k
+#EXTINF:-1,Sky1a
+http://5.255.90.226:5003/play/a00i
+#EXTINF:-1,Sky Sports F1a
+http://5.255.90.226:5003/play/a004
+#EXTINF:-1,Sky Sports 3a
+http://5.255.90.226:5003/play/a00c
+#EXTINF:-1,Sky Sports 1b
+http://5.255.90.226:5003/play/a009
+#EXTINF:-1,Sky Sports 3
+http://5.255.90.226:5003/play/a00d
+#EXTINF:-1,ComedyCentral
+http://5.255.90.226:5003/play/a00m
+#EXTINF:-1,TV3
+http://5.255.90.226:5003/play/a00f
+#EXTINF:-1,Sky Sports 2
+http://5.255.90.226:5003/play/a007
+#EXTINF:-1,Sky Sports 3b
+http://5.255.90.226:5003/play/a00a
+#EXTINF:-1,Sky Sports 1a
+http://5.255.90.226:5003/play/a00b
+#EXTINF:-1,Sky Living
+http://5.255.90.226:5003/play/a00l
+#EXTINF:-1,Sky Arts
+http://5.255.90.226:5003/play/a00j
+#EXTINF:-1,Sky1
+http://5.255.90.226:5003/play/a00e
+#EXTINF:-1,Sky Sports 1c
+http://5.255.90.226:5003/play/a008
+#EXTINF:-1,Sky1 +1
+http://5.255.90.226:5003/play/a006
+#EXTINF:-1,Sky Sports F1
+http://5.255.90.226:5003/play/a005
+#EXTINF:-1,Cartoonito
+http://5.255.90.226:5003/play/a00h
+#EXTINF:-1,FOX
+http://5.255.90.226:5003/play/a00g
